@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    margin-left: 100px;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.item{
+    margin: 5px;
+}
